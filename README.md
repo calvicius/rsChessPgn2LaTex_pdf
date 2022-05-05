@@ -1,3 +1,3 @@
-##Convert Chess PGN files to LaTex / pdf
+## Convert Chess PGN files to LaTex / pdf
 
 ![image](./assets/image.png)
