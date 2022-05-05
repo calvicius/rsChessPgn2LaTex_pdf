@@ -1,0 +1,7 @@
+[package]
+name = "pgn2latex_pdf"
+version = "0.1.0"
+authors = ["Calvicius"]
+
+[dependencies]
+regex = "1.5.4"

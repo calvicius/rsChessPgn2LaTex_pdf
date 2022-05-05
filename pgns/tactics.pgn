@@ -1,0 +1,2568 @@
+﻿[Event "Amsterdam izt"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "16"]
+[White "Evans, LM."]
+[Black "Tal, M."]
+[Result "0-1"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "1R2r1k1/5ppp/p2Q4/1p1P2P1/6KP/P3q3/1P6/8 b - - 0 38"]
+[PlyCount "21"]
+[EventDate "1964.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Who else but the 'magician' Tal would spot here the winning motif of the
+reloader!? Wer anders als der 'Zauberer' Michael Tal würde schon hier das
+gewinnbringende Nachlademotiv erkennen!?} 38... f5+ $3 {Der König wird in ein
+Mattnetz getrieben oder es wird ein Damentausch erzwungen, bei dem der Bauer
+g7 ein entscheidendes Tempo gewinnt.} (38... h5+ $2 {the wrong move order!
+wäre die falsche Reihenfolge!} 39. gxh6 f5+ 40. Kxf5 Qf3+ 41. Kg5 Qf6+ 42. Qxf6
+gxf6+ 43. Kxf6 Rxb8 44. h7+ {The 'small' difference: the additional pawn
+forces the black king to the side of the board. Now the rook must stop the
+d6-pawn without the help of the king. Der 'kleine' Unterschied: durch diesen,
+in der anderen Variante fehlenden Bauern, wird der schwarze König zu weit
+abgetrieben, und nun muss der Turm auf Kosten eines Remis den Bauern d6
+alleine aufhalten.} Kxh7 45. d6 $11 {Perpetual check with Rf8-f2 dem Turm
+verbleibt, dem König von hinten via f8-f2 Dauerschach zu geben.}) 39. gxf6 h5+
+$1 40. Kxh5 (40. Kf5 Qe4+ 41. Kg5 Qg4#) 40... Qf3+ 41. Kg5 Qxf6+ $1 {
+'Reloading' on f6 with the g7-pawn gains the necessary tempo to capture the
+Rb8! Here the motif of the second piece was the gain of tempo!!} 42. Qxf6 gxf6+ 43. Kxf6 Rxb8 44. d6 {too late
+vergeblich bemüht sich Weiß...} Kf8 45. h5 Rb7 46. Ke6 Rh7 47. Kd5 Ke8 48. Kc6
+Kd8 0-1
+
+[Event "Cham"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Aufgabe Nachlade1"]
+[Black "Held M.-Rohrmüller"]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "r2r4/1b2q1kp/pp1pnpp1/8/1PPNP3/P4QNP/6P1/2RR2K1 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%tqu "En","Is the square f5 defended?","","","d4f5","Nein.",10,"g3f5","Das
+Gleiche.",10,"De","Ist das Feld f5 verteidigt?","","","d4f5","Nein.",10,"g3f5",
+"Das Gleiche.",10]} 1. Ndf5+ (1. Ngf5+) 1... gxf5 2. Nxf5+ 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aufgabe Nachlade2"]
+[Black "unbekannte Quelle"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3q3k/2R3p1/N6p/4p3/4nr2/3p4/5bPP/2Q2R1K b - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%tqu "En","Which two pieces on h4 have the same vertikal effect?","","",
+"e4g3","",10,"De","Welche zwei Figuren haben von h4 aus die selbe vertikale
+Wirkung?","","","e4g3","",10]} 1... Ng3+ 2. hxg3 Qh4+ 3. gxh4 Rxh4# 0-1
+
+[Event "Budapest"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Aufgabe Nachlade3"]
+[Black "Siklosi-Kosa,L."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b1rb2/p2nq2k/1pp2p1p/4pPp1/P1B1P1P1/2N1B2R/1PPQ2P1/3R2K1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%tqu "En","Which motif can be 'reloaded' on d5?","","","c3d5","Das Feld d5
+ist der SP eines Doppelangriffes!  Daher kann der Springer d5 besetzen, ohne
+geschlagen zu werden, da sich der Doppelangriff sonst <->nachladen/^ würde.
+Die Dame konnte nicht sofort d5 besetzen. Der verteidigende Bauer c6 muss
+weiterhin das Feld gegen die Dame sichern.",10,"De","Welches Motiv kann auf d5
+'nachgeladen' werden?","","","c3d5","Das Feld d5 ist der SP eines
+Doppelangriffes!  Daher kann der Springer d5 besetzen, ohne geschlagen zu
+werden, da sich der Doppelangriff sonst <->nachladen/^ würde. Die Dame konnte
+nicht sofort d5 besetzen. Der verteidigende Bauer c6 muss weiterhin das Feld
+gegen die Dame sichern.",10]} 1. Nd5 $1 Qd6 {otherwise the ensuing motif on d5
+would be too strong sonst wäre das nachkommende Motiv auf d5 zu stark...} 2.
+Nxf6+ Qxf6 3. Bxg5 1-0
+
+[Event "Kecskemet"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Aufgabe Nachlade4"]
+[Black "Siklosi-Labahn"]
+[Result "*"]
+[Annotator "Analyse"]
+[SetUp "1"]
+[FEN "3k3r/pp1n3p/2pb1n2/3q1pB1/3P1Q2/1P5P/P1P2PP1/R3R1K1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%tqu ]} 1. Re5 {[%cal Re5f5,Rf4f5]} Bxe5 2. dxe5 Kc8 3. exf6 *
+
+[Event "URS-ch11 Leningrad"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "1"]
+[White "Pogrebissky, I."]
+[Black "Levenfish, G."]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "5r2/3P1pkp/p1r3p1/1ppN3n/8/2P5/PP3PPP/R3R1K1 w - - 0 27"]
+[PlyCount "5"]
+[EventDate "1939.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+27. g4 Rd6 28. Rad1 Rd8 29. gxh5 (29. gxh5 R6xd7 30. Ne3 {At the end of a
+combination White is able to keep his material advantage because he creates a
+communication-line to his rook and releases the pin. Am Ende einer Kombination
+rettet Weiß seinen Materialvorteil, indem er mit Se3 eine Komm.-linie zum Td1
+schafft und die Fesselung damit aufhebt.}) 1-0
+
+[Event "UdSSR"]
+[Site "?"]
+[Date "1959.??.??"]
+[Round "?"]
+[White "Krogius"]
+[Black "Sergiewski"]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "r4nk1/p3rppp/1p6/2PqNQ2/8/4P3/P4PPP/1RR3K1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. Ng6 (1. Ng6 {In diesem schon gezeigten Beispiel schafft der Springer mit 1.
+Sg6 im taktischen Kontext (DP/Abzug) die gewinnbringende Komm.-linie zu seiner
+Df5.} Qxf5 2. Nxe7+) 1-0
+
+[Event "Hastings"]
+[Site "?"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Thomas"]
+[Black "Horn"]
+[Result "0-1"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "r3k2r/p5b1/2qpp2p/1Q2n1p1/3N1p2/2P5/PP4PP/RNB2RK1 b kq - 0 1"]
+[PlyCount "3"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Pretty example for the creation and destruction of communication-lines Dieses
+Beispiel verdeutlicht in schöner Weise die Schaffung und Aufhebung von
+Kommunikationslinien. Hier kommt es einerseits zur Zusammenführung der eigenen
+Komm.-linie, andererseits wird die gegnerische zerstört. In der Nebenvariante
+kommt es zu diesem Vorgang sogar gleichzeitig!} 1... Nf3+ $1 {Der Springer
+kann nicht zurückschlagen, weil er seine Dame decken muss} 2. gxf3 (2. Kh1 Nxd4
+{Schwarz hat nicht nur die Deckung und den Kommunikator eliminiert, er schafft
+gleichzeitig eine Kommunikationslinie zur Deckung seiner Dame!}) 2... Bxd4+ {
+Mit Tempo eliminiert der Läufer die Deckung der Dame.} 0-1
+
+[Event "Moscow"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Capablanca, J."]
+[Black "Tartakover, S."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5k2/5b2/5R1p/p3Rp2/3r1P2/7P/6P1/6K1 b - - 0 44"]
+[PlyCount "6"]
+[EventDate "1925.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Connection of two rooks is a common feature of the communication-lines Die
+Zusammenführung zweier Türme, die sich auf ihrer Komm.-linie gegenseitig
+decken, ist ein häufiges Motiv.} 44... Rxf4 45. Rxa5 Kg7 46. Raxf5 {defence
+works in both directions Die gegenseitige Komm.-linie beinhaltet eine Deckung
+nach zwei Seiten} Rxf5 47. Rxf5 {mit entscheidendem Vorteil} 1-0
+
+[Event "Bukarest"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Urzcia"]
+[Black "Honfi"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r4/pk1n4/4R3/2p2p1b/2Q4P/5qB1/PPB5/2K5 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1995.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. Be4+ $1 {die schwarze Dame muss Felder auf der diagonalen Linie zum König
+schützen} fxe4 2. Qd5+ Kc8 3. Qc6# {Dieses schöne Beispiel zeigte uns eine
+Linienunterbrechung, die durch niedrigeren Materialwert ermöglicht wird. Hier
+wurde die Linie zu einem Feld unterbrochen. Es spielt natürlich keine Rolle,
+ob eine Linie zu einer Figur oder einem wichtigen Feld führt.  Bei einem Feld
+als Punkt ist die Unterbrechung oft taktisch einfacher, da die Komm.-linie
+einseitig ist, und das Feld - im Gegensatz zu Figuren mit gleichem
+Bewegungshorizont wie der Unterbrecher - sich selbst nicht verteidigen kann.}
+1-0
+
+[Event "Haifa"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Reshevsky, S."]
+[Black "Persitz, R."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2brnrk1/p1n2p1p/1pqp1PpQ/2p1p1P1/2P1P3/3PNR2/PP2N1BP/R5K1 w - - 0 24"]
+[PlyCount "1"]
+[EventDate "1958.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%cal Gc8h3,Rf3h3] The rook on h3 would be mate. White interrupts this line
+to occupy this square. Turm auf h3 wäre Matt. Weiß unterbricht die Linie, um
+das Feld besetzen zu können.} 24. Nf5 $1 {[%cal Rf3h3]} 1-0
+
+[Event "UdSSR"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Kirpicnikow"]
+[Black "Veksler"]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "r4rk1/3q1ppp/p1n5/1pppP2N/5Qb1/1P3N2/1PP2PPP/4RRK1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. e6 {Wieder wird eine Linie durch mehrfache Feldkontrolle unterbrochen,
+wobei die Dame nicht auf e6 schlagen kann, da das Unterbrechungsfeld von
+niedrigerem Material kontrolliert wird. Mit Folgen:} Bxe6 2. Ne5 (2. Ne5 Qb7 (
+2... Nxe5 3. Qxe5 {mate or loss of the Be6 Matt oder Verlust des Le6}) 3. Nxc6
+Qxc6 4. Qe5 {[%csl Re6,Rg7]}) 1-0
+
+[Event "UdSSR"]
+[Site "?"]
+[Date "1967.??.??"]
+[Round "?"]
+[White "Sasin"]
+[Black "Gik"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b5/1pP2kbp/5pp1/1p2p3/1P2PP2/6P1/6BP/B5K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Die Technik einer Linienunterbrechung wird oft erst nach der Schaffung einer
+solchen Konstellation eingesetzt. Durch eine Hinlenkung der Figur wird eine
+Linie geschaffen, die mit Vorteil unterbrochen werden kann.} 1. Bh3 Bxh3 {
+[%cal Gh3c8]} (1... f5 2. Bxe5) 2. f5 {Es wurde ein anderer Punkt gesucht, von
+wo die Linie zur Aufgabe abgeschnitten werden kann.} 1-0
+
+[Event "Amsterdam KNSB"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "2"]
+[White "Fontein, J."]
+[Black "Euwe, M."]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2rr2k1/5pp1/p3pb2/Q7/NR6/P2q4/5PPP/5RK1 w - - 0 24"]
+[PlyCount "2"]
+[EventDate "1939.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+24. Nb6 $4 Rc1 $1 {The rook defends against a back-rank mate. From c1 he is
+not able to fulfil this task. Der Turm deckt ein Grundlinienmatt. Von c1 aus
+ist er nicht imstande, die Unterbrechung der Linie zu seinem König zu
+bekämpfen.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Beispiel"]
+[Black "Linien"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4k3/2q4r/8/6Q1/8/8/8/6K1 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%cal Gc7h7,Gh7c7]} 1. Qg8+ Kd7 2. Qxh7+ $11 1/2-1/2
+
+[Event "Zürich"]
+[Site "?"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Pytel"]
+[Black "Mathis"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1b1k2r/pp6/1np1p2p/3q1pp1/8/P1PB2B1/1P2QPPP/3R1RK1 w kq - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Many moves are winning. A good example for the direct interruption of the
+communication-line with a tempo Hier gewinnen viele Züge. Ein gutes Beispiel
+jedoch für eine direkte Unterbrechung der Komm.-linie, wobei das
+Unterbrechungsfeld mit Tempo besetzt wird:} 1. Be5 {now f5 is without defence
+unterbricht mit Tempo die Linie zwischen der Dame und den zu deckenden Bauern
+f5} O-O 2. Bxf5 1-0
+
+[Event "St.Petersburg"]
+[Site "?"]
+[Date "1874.??.??"]
+[Round "?"]
+[White "Chigorin, M."]
+[Black "Davidov, A."]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "r1k1r3/ppp1np1p/5N2/8/2BQ2bq/3P4/PPP5/5RK1 w - - 0 23"]
+[PlyCount "9"]
+[EventDate "1874.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%csl Rd7][%cal Gg4d7] The black bishop can only defend the line from g4 
+(pinned) Die Funktion der Deckung des Mattfeldes kann er der Läufer erfüllen,
+nicht aber die Linie zu diesem Feld offenhalten, da er durch die Fesselung
+feldgebunden ist.} 23. Be6+ $1 $18 Kb8 (23... Bxe6 24. Qxh4) 24. Nd7+ Kc8 25.
+Nc5+ Kb8 26. Na6+ $1 bxa6 27. Qb4# 1-0
+
+[Event "UdSSR"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Tukmakow"]
+[Black "Gufeld"]
+[Result "0-1"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "4r1k1/p4ppp/1p3b2/1q1N4/3P1P2/3R1Q2/P5PP/1r1R2K1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Die Integration von Tempo und niedrigerem Materialwert des Unterbrechers ist
+Bestandteil dieses Beispiels. Diesmal sind beide Figuren auf der Linie
+feldgebunden.} 1... Bxd4+ 2. Kf1 {[%cal Gf3d3]} (2. Rxd4 Re1+ 3. Kf2 Rf1+) 2...
+Re3 $1 {Da auch der Sd5 wegen seines Bewegungshorizontes die Unterbrechung
+nicht aufzuheben vermag, entscheiden die Feldgebundenheit, Tempo und das
+Kräfteverhältnis auf dem Unterbrechungsfeld mit niedrigerem Materialwert.} (
+2... Re3 3. Nxe3 Qxd3+) 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Beispiel"]
+[Black "Analyse"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "r1b1k2r/1p2bp1p/p2pp3/6B1/2qNP3/2Nn4/PPPQ3P/2KR1R2 w kq - 0 1"]
+[PlyCount "0"]
+[EventDate "1995.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Black has occupied d3 with his last move. Nd4 cannot rescue itself because of
+the check Schwarz hat mit seinem letzten Zug das Feld d3 besetzen können. Sd4
+kann nicht einfach sich selbst retten, da die Besetzung des
+Unterbrechungspunktes mit Schach (Tempo) geschieht.}  1/2-1/2
+
+[Event "unbekannte Quelle"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Beispiel"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2q3k/pp1b1Q1p/3p1bp1/5p2/2B5/1P5P/P1PP1PP1/4R1K1 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%cal Gd8g8,Gd8f6]} 1. Re8+ $1 {unterbricht der feldgebundenen Dd8 eine ihrer
+Komm.-linien mit Tempo. Die Dame kann von e8 ihre Aufgaben nicht erfüllen.}
+Qxe8 (1... Bxe8 2. Qg8#) 2. Qxf6# 1-0
+
+[Event "UdSSR"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Seljavkin"]
+[Black "Belousenko"]
+[Result "0-1"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "4r2k/ppp2Qpp/8/8/3n4/2N5/1P4PP/4qR1K w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Tasks for Re8 and Qe1 Die De1 hat zwei Aufgaben, desgleichen der Te8. Da ihre
+gegenseitige Komm.-linie offenbleiben muss, führt schon die alleinige
+Unterbrechung zum Verlust!} 1. Ne4 $1 (1. Ne2 $2 {Die Linie wird an der
+falschen Stelle unterbrochen.} Qxf1+ 2. Qxf1 Nxe2 3. Qf7 Rd8 {und Weiß muss
+noch weiterspielen.}) 0-1
+
+[Event "unbekannt"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Beispiel"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4k3/R6R/8/K1p5/1p1N4/p1n5/5rb1/b7 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%csl Gf3][%cal Gf2f8,Gg2a8]} 1. Nf3 $1 Bxf3 (1... Rxf3 2. Ra8#) 2. Rh8# 1-0
+
+[Event "Erewan"]
+[Site "?"]
+[Date "1966.??.??"]
+[Round "?"]
+[White "Fuchs"]
+[Black "Kortchnoi"]
+[Result "0-1"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "r6k/pp2qppp/3R1n2/4r3/2B2Q2/2N5/PPbR2PP/7K b - - 0 1"]
+[PlyCount "3"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%csl Gd3][%cal Gc4f1,Gd2d6]} 1... Bd3 2. Bxd3 (2. R6xd3 Re1+) 2... Qxd6 0-1
+
+[Event "Bath"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Szabo"]
+[Black "Ivkow"]
+[Result "0-1"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "5rk1/pp5p/2pR2p1/4nr2/2q5/2B5/PPQ2PPP/5RK1 b - - 0 1"]
+[PlyCount "1"]
+[EventDate "1995.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1... Nf3+ $1 (1... Nf3+ 2. gxf3 {to eliminate a defender Linienöffnung zur
+Vertreibung eines Verteidigers} Rg5+ 3. Kh1 Qxf1#) 0-1
+
+[Event "Hamburg"]
+[Site "?"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Aljechin"]
+[Black "Tartakower"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5r2/p1ppk1r1/1pn1p2p/8/2PP1N2/2P5/P2K2PP/R4R2 w - - 0 21"]
+[PlyCount "1"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+21. Nd5+ {wieder der Verteidiger eliminiert} (21. Nd5+ exd5 (21... Ke8 22.
+Nxc7+) 22. Rae1+ Kd6 23. Rxf8) 1-0
+
+[Event "Leningrad"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Karpow"]
+[Black "Taimanow"]
+[Result "0-1"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "8/6k1/1P1p2p1/3Ppn2/3q4/8/6PP/rR2QB1K b - - 0 1"]
+[PlyCount "1"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{The king often is himself the target of a line-opening. Oft ist der König
+selbst direktes Ziel einer Linienöffnung} 1... Ng3+ (1... Ng3+ {Die Öffnung
+der h-Linie wäre fatal... Solche Kombinationen müssen wir elementar erkennen
+und verhindern! Den Blick, Material (Ta1) einzusetzen, welches nicht im
+Geschehen einsetzbar erscheint, lernen wir im Abschnitt 'Statusuntersuchung'
+kennen.} 2. hxg3 (2. Qxg3 Rxb1) 2... Ra8 {mit Matt}) 0-1
+
+[Event "Skara"]
+[Site "?"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Renman"]
+[Black "Kasparow"]
+[Result "*"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "q1rr1bk1/1b1n1ppp/pp1ppn2/8/1PPQP3/P1N1N1PP/1B3PBK/2R1R3 b - - 0 22"]
+[PlyCount "13"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+22... Qb8 23. Kh1 Nc5 $1 {opening of the line would result in no retreat for
+the queen Hier trifft die Linienöffnung die Dame, die keinen Rückzug hat.} 24.
+Rc2 (24. bxc5 dxc5 {und die Dame geht verloren}) 24... e5 25. Qd1 Ncxe4 26.
+Nxe4 Bxe4 27. Bxe4 Nxe4 28. Qf3 Nf6 $17 *
+
+[Event "UdSSR"]
+[Site "?"]
+[Date "1971.??.??"]
+[Round "?"]
+[White "Kislow"]
+[Black "Viktorow"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rn1qr1k1/1np1bpp1/pp1p3p/3P2N1/QP1P1B2/P1PB4/6PP/4RRK1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. Bh7+ Kf8 {Tip: look the lines of the rooks all the way to the end Auch das
+Feld f8 muß als mögliches Feld im Wirkungsbereich des Tf1 gesehen werden! Tipp:
+Sehen Sie die Linien der Türme immer bis ganz zu Ende.} 2. Ne6+ fxe6 3. Bxd6#
+1-0
+
+[Event "Bugojno"]
+[Site "?"]
+[Date "1978.??.??"]
+[Round "4"]
+[White "Portisch, L."]
+[Black "Huebner, R."]
+[Result "0-1"]
+[WhiteElo "2630"]
+[BlackElo "2595"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "8/1b3rpk/1p1qpn2/5p2/3P4/4PPPr/2QBBK2/2R3R1 b - - 0 37"]
+[PlyCount "5"]
+[EventDate "1978.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{The strategic situation (white king is boxed in) is ripe for tactical action 
+(line-opening) Die Trennung zwischen Strategie und Einsatz des taktischen
+Motivs ist oft ohne Übergang. Strategisches Vorgehen und taktische Idee
+verknüpfen sich im Wechselspiel.} 37... Ne4+ $1 {Nicht schwer zu sehen, dass
+der (strategische) Zeitpunkt gekommen war, dem weißen König an den Kragen 
+(durch taktische Linienöffnung) zu gehen.} 38. fxe4 fxe4+ 39. Ke1 Qxg3+ (39...
+Qxg3+ 40. Rxg3 Rh1+ 41. Bf1 Rhxf1+ 42. Ke2 R7f2#) 0-1
+
+[Event "Budapest"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Buksa"]
+[Black "Kovacs"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/6bk/2pQp2p/2P1Pp2/3B1P1K/6PP/8/3q4 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%cal Rd6g6,Rd6e6]} 1... Bf6+ $1 {the king wants to go to g6 unmolested Der
+König will unbehelligt nach g6.} 2. exf6 Kg6 3. g4 Qe1+ {with mate mit Matt}
+0-1
+
+[Event "Zürich"]
+[Site "?"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Keller"]
+[Black "Nievergelt"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/4nQbk/3N2pp/1p6/1P6/6B1/1Pq1rPPP/5RK1 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1995.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%cal Gc2b2,Gb2g7]} 1. Be5 $1 Rxe5 2. Ne8 {Nun kann die schwarze Dame nicht
+mehr den Lg7 decken, da auf der Verteidigungslinie nun ihr eigener Turm im Weg
+steht.} Nf5 3. Nf6+ Kh8 4. Qg8# 1-0
+
+[Event "Bremen"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Oms"]
+[Black "Karls"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/5k2/R3pp2/1P6/2P5/1r3p2/2K5/8 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%csl Rf1][%cal Ga6a1,Ga1f1] How can the only defender be eliminated? Wie
+kann der Einsatz des einzigen Verteidigers (gegen die Umwandlung) verhindert
+werden?} 1... Rb1 $1 2. Kxb1 f2 0-1
+
+[Event "Lippstadt"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Aufgabe Linien1"]
+[Black "Wehmeier-Bischoff"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r2nk1/2q2p1p/p3p1p1/4P2N/1p6/5Q2/PbP3PP/3R1R1K w - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%tqu "En","Which is Black's most important line?","","","d1d7","Die
+wichtigste Linie von Schwarz ist die Verteidigungslinie zwischen der schwarzen
+Dame und dem Punkt f7. Das Motiv der Linienunterbrechung wird zur Störung 
+(Hindernis) dieser Linie eingesetzt.",8,"De","Welches ist die wichtigste Linie
+der schwarzen Partei?","","","d1d7","Die wichtigste Linie von Schwarz ist die
+Verteidigungslinie zwischen der schwarzen Dame und dem Punkt f7. Das Motiv der
+Linienunterbrechung wird zur Störung (Hindernis) dieser Linie eingesetzt.",8]} 
+1. Rd7 {The queen itself is not allowed to keep the defensive linie open
+because of the double attack on f6 Die Dame darf wegen des Doppelangriffes
+nicht selbst die Unterbrechung auf der Linie beseitigen.} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Aufgabe Linien2"]
+[Black "Duchamp-Smith Hyeres"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5rk1/p3b2p/1pq1p1p1/2p1P3/P1Q2P2/2B1P3/1P4PP/3R2K1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%tqu "En","How can you cut off the defence from the pawn e6?","","","d1d6",
+"",7,"De","Wie kann die Deckung des wichtigen e6-Bauern unterbunden werden?",
+"","","d1d6","",7]} 1. Rd6 $1 Bxd6 2. Qxe6+ Rf7 3. exd6 {the passed pawn and
+the Bc3 are too strong und der Freibauer und die Diagonale des Lc3 erweisen
+sich als übermächtig} 1-0
+
+[Event "Szeged"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Aufgabe Linien3"]
+[Black "Dovzsik,J.-Arnold,L. (Analyse"]
+[Result "*"]
+[Annotator "Arnold,L"]
+[SetUp "1"]
+[FEN "6k1/pp1qbpp1/8/P2pPNP1/1Pr2Q1N/8/4bP1P/6RK w - - 0 1"]
+[PlyCount "4"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. Nh6+ $2 gxh6 2. gxh6+ {[%tqu "En","Why was the line-opening with Nh6+
+incorrect?","","","e2g4","Der Versuch, die Linie für den Tg1 zu öffnen, war
+schlecht, weil sie wieder geschlossen werden konnte!",0,"De","Warum war die
+Linienöffnung durch Sh6+ schlecht?","","","e2g4","Der Versuch, die Linie für
+den Tg1 zu öffnen, war schlecht, weil sie wieder geschlossen werden konnte!",0]
+} Bg4 $3 (2... Bg4 3. h7+ Kg7 4. Rxg4+ Qxg4 5. Nf5+ Kh8 $17 {L.Arnold}) *
+
+[Event "Kazan"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Aufgabe Linien4"]
+[Black "Kramnik-Bareew "]
+[Result "0-1"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "5rk1/p1p3pp/3b3q/5p1r/1PNP4/P3PQP1/6P1/R3R1K1 b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%tqu "En","How can the king be prevented to escape through the f-file?","",
+"","d6g3","",10,"f5f4","Für die Idee die Punkte. Leider ist die Ausführung
+noch nicht genau genug.",6,"De","Wie kann verhindert werden, dass der König
+über die f-Linie entkommt?","","","d6g3","",10,"f5f4","Für die Idee die Punkte.
+Leider ist die Ausführung noch nicht genau genug.",6]} 1... Bxg3 $3 (1... f4 $6
+2. exf4 Bxf4 3. gxf4 Rxf4 4. Re8+ Kf7 5. Nd6+ cxd6 6. Qb7+ Kg6 7. Re6+ Rf6 8.
+Qe4+ Kf7 9. Re7+ $11 {Fritz}) 2. Qxg3 f4 3. Qg4 (3. exf4 Rxf4 4. Re8+ Kf7 {
+[%cal Rh5h1]}) 3... fxe3 4. Qxh5 Qxh5 $19 0-1
+
+[Event "Trinidad"]
+[Site "?"]
+[Date "1939.??.??"]
+[Round "?"]
+[White "Aljechin"]
+[Black "Nestor"]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "3r3k/3P1ppp/p3q3/1pR5/2p5/Q5PP/P4P1K/8 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. Rc8 Qxd7 (1... Rxc8 2. Qe7 Qc6 3. d8=Q+) (1... Qb6 2. Qf8+) 2. Qf8+ {
+The importance of f8 (mate) as well as the tempo (check) marks the x-ray
+attack. The defender can only react to one side. Die Wichtigkeit des auf f8
+besetzten Punktes (Matt) bestimmt den Röntgenangriff ebenso wie das Tempo 
+(Schach), das dem in der Mitte stehenden Verteidiger das Reagieren nur in eine
+Richtung zulässt.} 1-0
+
+[Event "Spanien"]
+[Site "?"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Magrin"]
+[Black "Sawij"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r1bq2r1/pp3pk1/4p1p1/2p3b1/3P1BN1/7Q/PPP2PP1/R3K2R w KQ - 0 1"]
+[PlyCount "5"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. Qh6+ Bxh6 2. Bxh6+ Kh7 3. Bf8+ {Wieder wurde im Sinne eines Nachlademotivs
+ein Punkt besetzt, auf dem zwei Figuren die gleiche Aufgabe erfüllen können. 
+(Da es sich um einen entscheidenden Punkt handelt, spielt die materielle
+Wertigkeit zur gegnerischen Figur keine Rolle.)} 1-0
+
+[Event "Ungarn"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Csanadi"]
+[Black "Pogats"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "3r2k1/p4ppp/1p1b4/4Q3/8/4PP1q/PP3P1P/3RB1K1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%csl Yd1,Yd6,Yd8]} 1... Qxh2+ 2. Qxh2 Bxh2+ 3. Kxh2 Rxd1 {Black has won the
+exchange because discovered attack and x-ray attack worked together. Schwarz
+hat die Qualität durch die VERBINDUNG von Röntgenangriff und Abzug gewonnen.}
+0-1
+
+[Event "unbekannt"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aufgabe Röntgen1"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/q3R2k/p2p2pr/3P1p2/1p2Q3/3R4/PPP5/1K6 b - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%tqu "En","How often is f7 controlled by Black?","","","f8f7","Es ist 1mal
+kontrolliert und darf besetzt werden. Die Da7 kontrolliert das Feld, obwohl
+eine fremde Figur zwischen ihr und dem Feld steht!",6,"De","Wie oft ist das
+Feld f7 durch Schwarz kontrolliert?","","","f8f7","Es ist 1mal kontrolliert
+und darf besetzt werden. Die Da7 kontrolliert das Feld, obwohl eine fremde
+Figur zwischen ihr und dem Feld steht!",6]} 1... Rf7 *
+
+[Event "Kecskemet"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Aufgabe Röntgen2"]
+[Black "Siklosi-Buhmann"]
+[Result "*"]
+[Annotator "Analysestellung"]
+[SetUp "1"]
+[FEN "2k5/1n6/R2Bp2p/3pPppP/2q5/1r6/2Q2PP1/6K1 w - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%tqu "En","Who controls c6?","","","a6c6","Weiß.",6,"De","Wer kontrolliert
+c6?","","","a6c6","Weiß.",6]} 1. Rc6+ *
+
+[Event "?"]
+[Site "?"]
+[Date "1924.??.??"]
+[Round "?"]
+[White "Aufgabe Röntgen3"]
+[Black "Euwe-Loman"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rn1qr1k1/1p2npb1/2p3p1/8/1pPN4/7Q/PB1P1PP1/2KR1B1R b - - 0 16"]
+[PlyCount "4"]
+[EventDate "1924.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+16... Bxd4 $2 {beleaved to win a piece Glaubte hiermit nach 17.Lxd4 eine Figur
+zu gewinnen...} {[%tqu ]} 17. Qh8+ $3 Bxh8 18. Rxh8# 1-0
+
+[Event "Borisenkow-Mezenew"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Vorgedanken zur STU"]
+[Black "?"]
+[Result "0-1"]
+[Annotator "UdSSR"]
+[SetUp "1"]
+[FEN "8/8/8/8/5k2/1p3pR1/bK5P/8 b - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{It appears as if White controls both pawns. For the time being, both sides of
+the board are controlled by parts of the white forces.  If the f-pawn moves
+the white rook threatens to give check on that file behind the king. Then it
+will sacrifice itself and Black even lays claim to win with the remaining
+a-pawn!  The only possibility to parry the rook's check after a theoretical
+record of elements is by moving in-between with the bishop, (a part) that
+seems not to be available in this respect. If the bishop moves - to give
+shelter for his king - the black king would eliminate it immediately. After
+looking at all the parts separately we should conclude that the game is
+already decided (Zugzwang) in White's favour... But we have omitted the
+interrelation and connection of the parts to each other!! Only after combining
+the working power of the parts is the entirety disclosed! The effect of one
+part on another shows the solution, the essence of the position. The
+combination and its effect gives new possibilities of motifs (for example,
+intermediate move and tempo gain). The spirit, who creates (and holds up!?)
+another order is discovered only after our particular investigations.    Es
+sieht so aus, als ob Weiß beide Bauern kontrollieren würde. Jeder
+Brettabschnitt ist jeweils von einem Teil der weißen Kräfte kontrolliert.  Der
+weiße König bewacht den Läufer und Bauern auf b3. Der weiße Turm droht beim
+Vormarsch des f-Bauern hinter dem König auf der f-Linie Schach zu geben und
+sich zu opfern, um dann sogar mit dem verbleibenden a-Bauern noch gewinnen zu
+wollen! Die einzige Möglichkeit dem Turmschach zu begegnen, ist nach
+theoretischer Bestandsaufnahme der vorhandenen - aber anscheinend nicht zur
+Verfügung stehenden - Teile ein Dazwischenziehen des Läufers auf f5.  Bewegt
+sich aber der Läufer, um dem König Schutz zu geben, würde ihn der schwarze
+König sofort eliminieren.  Nach Betrachtung der einzelnen Teile sollten wir zu
+dem Schluss kommen, dass diese Partie sich schon zu Gunsten (Zugzwang) von
+Weiß geneigt hat... Aber wir haben die Verbindung, den Zusammenhang der
+einzelnen Teile miteinander, unterschlagen!! Erst mit dem Zusammenwirken aller
+Teile erschließt sich das Ganze!  Die Auswirkung der einzelnen Teile auf
+anderes erst erschließt die Lösung, den Sinn der ganzen Position. Die
+Verbindung und Auswirkung zeigt neue Möglichkeiten des Motiveinsatzes (z.B.
+Zwischenzug und Tempogewinn). Der Geist, der dazwischen andere Ordnung schafft
+(und erhält!?), wird uns erst mit der Verknüpfung unserer Einzeluntersuchungen
+erschlossen. Hier sehen wir wieder, welche Anforderungen an eine Systematik
+gestellt werden müssen: die Bestimmung der einzelnen Teile müssen in Beziehung
+zueinander gesetzt werden und jeder Status und Veränderung in Zusammenhang mit
+anderen Teilen und dem Ganzen methodisch gebracht werden.} 1... f2 $1 2. Rg8
+Bb1 {The intermediate move - the connection of the parts of the board - which
+forces the white king on a square (line) where a decisive tempo is won. Der
+Zwischenzug, die Verbindung der Bretteile, die den weißen König auf ein Feld,
+bzw. Linie zwingt, wo ein entscheidendes Tempo gewonnen wird.} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "BeispielSTU"]
+[Black "?"]
+[Result "*"]
+[ECO "C69"]
+[PlyCount "14"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 Bc5 $4
+{A square (c5) that shouldn't have been occupied because the queen's check on
+h5 can be registered when doing the STEX of the king. This could also be done
+with the STEX of the queen with the queen's other tasks and possibilities. At
+which time c5 is spotted as a square controlled by White is not important as
+long as all data is collected. Findings that they are relevant for other
+points (pieces) will be kept in mind better by the more experienced player. He
+will be able to omit some future examinations as he memorises findings from
+former investigations. For the weaker player, a repeated experience of the
+same information is rather advantageous. Ein Feld (c5), das nicht besetzt
+werden kann, weil Dame Schach auf h5 hat, kann als solches schon bei STU König
+erfasst werden (Schachgebot und die dazu gehörigen Folgen) oder aber bei der
+Erfassung der Daten bei der STU Dame, die als Stein hier (bei Prüfung für
+Schwarz: ist Lc5 möglich?) den Springer d4 deckt, aber auch Schachgebot 
+(manchmal = Tempogewinn) h5 hat mit Bestreichen der Felder....unter anderen c5.
+An welchem Punkt das Feld c5 für den Spieler als nicht besetzbar erkannt wird,
+spielt keine Rolle, solange die Abfrage aller Datenmöglichkeiten eingehalten
+wird. Überkreuzende Informationen werden wahrscheinlich von dem geübten und
+erfahrenen Spieler besser behalten, und so fallen für ihn viele Überprüfungen
+weg, deren Ergebnisse er schon aus den vorangegangenen Schritten kennt. Für
+den schwächeren Spieler ist das mehrfache Erfahren der gleichen Information
+eher vorteilhaft. Der geübte Spieler wird keine "Mehrzeit" verlieren, da er
+imstande ist, die Erkenntnisse der vorangegangenen Prüfungen (Schritte) auf
+die folgenden übertragen zu können, welche im Ansatz sich teilweise erübrigen,
+da bei schon bekommener Antwort die Ausführung der Frage entfällt.} *
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Petrosian"]
+[Black "Bronstein"]
+[Result "0-1"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "1rb2r1k/1p1n2q1/p2Q2p1/P2Npn1p/2P1N2P/6P1/1R3PB1/1R5K w - - 0 1"]
+[PlyCount "2"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. Ng5 $4 {The later world-champion was probably in completley strategic
+thoughts... Der spätere Weltmeister war mit seinem Verlustzug, ganz
+strategischen Gedanken gewidmet...} (1. Qc7) 1... Nxd6 0-1
+
+[Event "UdSSR"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Loboda"]
+[Black "Pankevic"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1q3knr/1p1b1p2/p3p1pp/P1rpP3/3N3Q/3P1N2/1P3PPP/R4RK1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%csl Rc5] STEX of the rook = undefended => on the same diagonal with his
+king... Die STU des Tc5 ergab einen ungedeckten Status. Weiterführende
+Betrachtung zeigt ihn auf einer Diagonalen mit dem König ohne
+Kommunikationslinie: schon hier offenbart sich die Lösung der Stellung.} 1.
+Nxe6+ Bxe6 2. Qb4 Qc7 3. d4 1-0
+
+[Event "Smederevska Palanka"]
+[Site "?"]
+[Date "1982.??.??"]
+[Round "12"]
+[White "Sax, G."]
+[Black "Jansa, V."]
+[Result "1-0"]
+[WhiteElo "2550"]
+[BlackElo "2475"]
+[Annotator "MClas 03"]
+[SetUp "1"]
+[FEN "2r2rk1/2qbbpp1/p1nppn1p/1p6/4PPP1/1NN1B2P/PPP2QB1/2KR3R w - - 0 15"]
+[PlyCount "19"]
+[EventDate "1982.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%csl Rd7][%cal Rd1d7,Gb6c7,Gg5f6,Ge5d6] combination based on an undefended
+piece Kombination, die auf ein elementares Motiv (ungedeckte Figur)
+zurückzuführen ist.} 15. e5 {STU Läufer (d7) muss ergeben, dass bei möglicher
+geöffneter d-Linie er durch den Td1 angegriffen ist. Die STU seiner beiden
+Verteidiger ergibt die Chance ihrer Eliminierung. Die Lösung ist gefunden!}
+dxe5 16. g5 hxg5 17. fxg5 Nh5 18. Bb6 Qb7 19. Na5 Bxg5+ 20. Kb1 Qb8 21. Rxd7
+Nxa5 22. Bxa5 Rc4 23. Ne4 Bd8 24. Bxd8 1-0
+
+[Event "Zürich"]
+[Site "?"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Matulovic"]
+[Black "Lombardy"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b1R1rk/p5p1/2P3Qp/8/5p1B/P6P/1n4P1/2q2B1K w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1995.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{STEX pawn g7 => defends h6 against mate => f6 can be occupied STU Bauer g7 =>
+deckt h6 (Matt) => Feld f6 ist besetzbar.} 1. Bf6 1-0
+
+[Event "Moskau"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Ratner"]
+[Black "Podgorni"]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "4r1rk/2pn2b1/1p1p1q1p/3P1p2/1PP1pP2/7R/2Q1B1PP/2B2RK1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1995.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Can I give a piece with a task another one which would result in an
+overloading? Kann einer Figur, die eine Aufgabe hat, eine zweite Aufgabe
+gegeben werden, die sie nun überlastet?} 1. Bb2 $1 {Die STU des Lg7 ergab ein
+zwangsläufiges Zurückschlagen (Aufgabe) des h-Bauern (sonst Matt), wenn die
+Dame diese Aufgabe von f6 nicht wahrnehmen würde.} Qxb2 (1... Qg6 2. Bh5 $18)
+2. Rxh6+ $18 {The defender of one point is overloaded with another point. Der
+Verteidiger eines Punktes wird mit einem zweiten Punkt überlastet.} 1-0
+
+[Event "London"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Romanishin"]
+[Black "Plaskett"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2q1rk1/pb1p1pb1/1pn1pn2/6Q1/2P5/1P4P1/PB2PPBP/RN1R2K1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1995.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Are there any points in common when looking at the tasks of more than one
+piece? Gibt es Schnittpunkte zur Aufgabenerfüllung?} 1. Rxd7 {Qd8 must defend
+Nf6 with mate to follow - Nf6 covers the Bg7 (otherwise mate) - Bg7 cannot (or
+not by himself) recapture on f6 (pinned) - STEX of pawn-d7 attacked (and
+defenders are busy) This simply (!) adds up to the taking of d7 · Dd8 muss den
+Sf6 decken - wird dieser in vorliegender Konstellation erobert, ergibt das
+Matt usw. · Der Sf6 hat die Aufgabe den Lg7 zu schützen (sonst Matt) · Der Lg7
+kann nicht zuerst (oder allein) auf f6 schlagen, da sein Status eine Fesselung
+beinhaltet. · Bei STU des Bauern d7 stellen wir fest, dass seine Verteidiger
+beschäftigt sind (Status = ungedeckt) und er angegriffen ist (wäre auch bei
+STU Td1 zu ermitteln gewesen).   Diese ganz banale Aufzählung und Feststellung
+des Status der Steine ergibt die simple Tatsache, daß d7 einfach geschlagen
+werden kann!} 1-0
+
+[Event "Mexico"]
+[Site "?"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Horowitz"]
+[Black "Maiagoitia"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rnb1r2k/pp2P2p/2p2p2/3p1P2/7q/1BB5/P3Q2P/6RK w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Can a piece be attacked so that it cannot fulfil its task and from which
+squares is this possible? Kann die Figur angegriffen werden, sodass sie ihre
+Aufgabe nicht mehr erfüllen kann, und von welchen Feldern vermag die Figur
+ihre Aufgabe erfüllen?} 1. Qe1 Qh6 2. Qe3 Qh4 3. Qf4 1-0
+
+[Event "Ljubljana"]
+[Site "?"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Maroczy"]
+[Black "Vidmar"]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "r4bkr/pppq2pp/2n1R3/2pp2N1/6P1/5Q2/PPP2P1P/R1B3K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%cal Gd7f7,Gd7d5] This piece (because of its tasks) is not able to move at
+all: Das Beispiel einer Figur, die wegen zweifacher Aufgabengebundenheit
+vonvorneherein nicht ihr Feld verlassen darf, ist stellvertretend für solche
+Vorgänge angeführt:} 1. Re7 Bxe7 (1... Qxe7 2. Qxd5+) 2. Qf7# 1-0
+
+[Event "Taxco (izt)"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Balashov, Y."]
+[Black "Spraggett, K."]
+[Result "1/2-1/2"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1p2bppp/p4n2/3pn3/3N4/2NBBP2/PPP2QPP/R3K2R w KQ - 0 12"]
+[PlyCount "1"]
+[EventDate "1985.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{We also he have to look on the STEX on the general defence and its possible
+changes What happens if the defender must recapture (and is forced on another
+square)?.  Natürlich müssen wir alle grundlegenden Beziehungen und möglichen
+Veränderungen eines Verteidigers in unser Statusprotokoll einbeziehen.  Dazu
+gehört natürlich der Vorgang der Verteidigung selbst. Was passiert, wenn der
+Verteidiger die ihm anvertraute Figur (Feld) zurückschlagen muss?} 12. O-O (12.
+O-O-O $4 Nfg4 13. fxg4 Nxg4 14. Qf3 Nxe3 {The queen is not allowed to move on
+the square of the piece she actually had to protect (e3) because of Bg5 and
+the pin. Erobert Schwarz seine Figur mit Bauerngewinn zurück, da der
+Verteidiger (Df2) nicht auf das Feld seiner ihm anempfohlenen Figur (Le3) darf.
+Auf einer Linie mit ihrem König würde die Dame nach Lg5 verloren gehen. STU
+Le3 ergab eine Figur auf einer Linie (Diagonalen) mit dem König, und so muss
+selbstverständlich dieser Umstand auch der verteidigenden Figur (Df2)
+zugerechnet werden!}) 1/2-1/2
+
+[Event "Polen"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Safuta"]
+[Black "Maletzky"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6k1/1p1rr2p/pRn3pR/6N1/3P4/4P1Q1/q4PPK/8 w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1996.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Qb8 check would win should be the result of the STEX of Qg3 (targeting-STEX
+may fit here) Eine Figur erschließt schon oft nur durch die Einbeziehung ihres
+Bewegungshorizontes (wo kann sie hinziehen) und damit verbundener Taktik (was
+bewirkt ihr Einsatz) andere Motive. Allein die Möglichkeit, der Dg3 ein Schach
+auf b8 zu geben, erschließt uns die Lösung.} 1. Rxc6 bxc6 2. Qb8+ Kg7 3. Rxh7+
+Kf6 4. Qf4# {Man könnte diese Analyse des Status einer Figur als ZielSTU
+systematisieren.} 1-0
+
+[Event "Paris"]
+[Site "?"]
+[Date "1863.??.??"]
+[Round "?"]
+[White "De Riviere, A."]
+[Black "Morphy, P."]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp3p1/7p/3P2n1/2PQ1p2/1N5P/PPP2PPK/R1B2R2 b - - 0 17"]
+[PlyCount "7"]
+[EventDate "1863.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Eine allgemeine Statusuntersuchung gründet sich ja auf die Feststellung der
+einfachsten Konditionen. Dazu gehört, wie oft ein Punkt verteidigt ist und wie
+viele Steine einen Angriff auf ihn zu lancieren vermögen.} 17... Nf3+ {Der
+Bauer h3 ist ein wichtiger Schutz der weißen Königsstellung. Zweifach
+verteidigt, müssen auch die Kräfte erfasst werden, die ihn angreifen, und
+sogar zu erobern imstande sind!} 18. gxf3 Qh4 19. Rh1 Bxh3 {Qd8 had to be
+regarded as an attacker (and now defender) of h3 Der h3-Bauer ist erobert. Die
+schwarze Dame musste als Angriffspotential bei der STU erfasst werden!} 20. Bd2
+Rf6 0-1
+
+[Event "UdSSR"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Sturua"]
+[Black "Kozlov"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2r4k/3r1p1p/1p2pP2/p2pPp1P/P2P1Q2/6R1/4B1PK/2q5 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1995.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%csl Yg3,Yg8][%cal Gc8c1,Gc8g8,Rg5g7,Rf4g5] STEX Rc8 => task; STEX g8 =>
+square of the king which would yield a tempo (queen to g7 mate) STU Tc8 =>
+Aufgabe; STU g8 => Tempofeld (s. STU König!) für Dame, um nach g7 zu gelangen.
+} 1. Rg8+ {[%cal Rf4c1,Rf4g3] Wieder wird der Einsatzort einer Figur 
+(Auswirkungen einer Dame auf g7) zur Entdeckung der Stellungslösung.} 1-0
+
+[Event "Skopje (ol)"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Lobigas, J."]
+[Black "Micheli, C."]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "2b3k1/4b1P1/p2pp1p1/2q1P2p/1r3r2/2NB3Q/1PP5/2KR2R1 w - - 0 26"]
+[PlyCount "1"]
+[EventDate "1972.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Pawn promotion is also subject of the STEX Den Drang des Bauern zur
+Verwandlung zu schreiten, sollte genauso Gegenstand unserer STU sein.} 26. Qxh5
+({Schwarz hat es sicherlich bereut, den Bauern 6 Züge lang zu verschmähen!} 26.
+Qxh5 gxh5 27. Bh7+ {Also: STEX of a pawn must question his path to promote.
+Also: STU Bauer beinhaltet die Frage nach dem Progress der Umwandlung.}) 1-0
+
+[Event "Paris"]
+[Site "?"]
+[Date "1863.??.??"]
+[Round "?"]
+[White "Morphy, P."]
+[Black "De Riviere, A."]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "r2nk2r/1ppn1p2/1b1pq1pp/p2Np3/P2PP3/2P2N1P/1P3PP1/R1BQR1K1 w kq - 0 16"]
+[PlyCount "2"]
+[EventDate "1863.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{The higher value of a piece is especially important with the STEX of the
+queen. Die hohe Wertigkeit findet besonders Berücksichtigung bei der STU der
+Dame. Hier ergibt die STU der schwarzen Dame keine Felder, und ein Angriff
+durch eine Figur niedrigeren Wertes wäre entscheidend.} 16. Bxh6 $16 f6 (16...
+Rxh6 17. Ng5 {no squares keine Felder}) 1-0
+
+[Event "Polen"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Luczynowicz"]
+[Black "Szymanski"]
+[Result "0-1"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "8/2q2p1k/4PPp1/3pR1Qp/3N4/1pP4P/1P4PK/r4r2 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{g3 is the only flight square STU König weist g3 als einziges Fluchtfeld aus.} 
+1... Qxe5+ 2. Qxe5 h4 3. Qg5 (3. g4 Rf2#) 3... Rh1# 0-1
+
+[Event "Deutschland"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Bramaier"]
+[Black "Broistadt"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3k2r/ppq1b3/4P3/2p1n1p1/b2N3p/1NQ3P1/P5PP/1B1R1RK1 w kq - 0 1"]
+[PlyCount "3"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. Nb5 {[%cal Rd1d8,Rf1f8] Registration of files dominated by rooks must be
+also included in the STEX of the king Auch das Registrieren der
+Felderbeherrschung durch die Türme gehört zur STU des Königs} Bxb5 2. Qxe5 1-0
+
+[Event "Malaga"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "O'Kelly"]
+[Black "Ramirez"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rq1rk3/2pbp2p/p4npQ/1p2p1N1/2Pn4/5P2/PP4P1/2KR1BNR w q - 0 1"]
+[PlyCount "1"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. Qxg6+ {Hier wird dieser Vorgang der Ideenfindung zusätzlich optisch
+unterstützt, da die eine Seite mit eigenen Figuren zugestellt ist, während die
+offene andere Seite einen Angriff gegen seine Majestät suggeriert.} 1-0
+
+[Event "Berlin"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Springer"]
+[Black "Ebersbach"]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "r4rk1/1pq1n1p1/p2pbP2/5p1Q/5P2/2P4R/P1PB2PP/R6K w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Put your opponent's pieces on the flight squares: Besonders beliebt ist es
+gegnerische Figuren auf die Fluchtfelder ihres Königs zu stellen:} 1. f7+ {1-0}
+Bxf7 (1... Rxf7 2. Qh8#) 2. Qh8# 1-0
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Timman, J."]
+[Black "Tatai, S."]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "4k3/pr2rp1p/q2pbQ2/8/2N5/6R1/P4PPP/4R1K1 w - - 0 28"]
+[PlyCount "1"]
+[EventDate "1977.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{The opening of a line is perfect to control flight squares: Eine der
+gängigsten Methoden, dem König zusätzlich Fluchtfelder zu nehmen, ist die
+Öffnung einer Linie.} 28. Ne5 (28. Ne5 dxe5 29. Rd1 {[%cal Rd1d8,Rd2d1]}) 1-0
+
+[Event "UdSSR"]
+[Site "?"]
+[Date "1937.??.??"]
+[Round "?"]
+[White "Fogelevic"]
+[Black "Verlinski"]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "2r1rn2/1b2b3/pqp1p2k/1p2B1pP/3PB1P1/4P3/PPQ2P2/1K1R3R w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%cal Rh1h8] Bereits postierten Figuren in Richtung König sollten wir einen
+Wirkungspotential ÜBER die tatsächliche Position (Hinwegsehen und Zuendesehen
+der Figurenlinien) gewähren.} 1. Bh7 c5 2. Qg6+ {die Linienöffnung wird dem
+Ta1 ermöglichen, Königsfelder (h6,h7) zu kontrollieren} Nxg6 3. hxg6+ (3. hxg6+
+Bxh1 4. Rxh1#) 1-0
+
+[Event "London"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Hodgson"]
+[Black "Agdestein"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6r/pp1R4/2p1pk1p/5p2/2P1b3/1P2KNP1/n4PBP/3R4 w - - 0 1"]
+[PlyCount "6"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. Ne5 $1 Kxe5 2. Rf7 Bd5 {dem Gegner ist erlaubt die Linien zu schließen und
+Fluchtfelder frei zu machen} 3. c5 {[%cal Rc5d6] 'erlaubt' ist auch wieder
+Fluchtfelder zu nehemn...} Bf3 {Zeigt wie viele Dinge man in die Berechnungen
+einbeziehen muss! Weiß kann zwar nun nicht mit f4 Matt geben, aber er sollte
+trotzdem guten Vorteil haben.} *
+
+[Event "unbekannt"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Beispiel"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2rk1b1r/2pb1Q2/5n2/4N3/1P3Ppq/8/4RP2/6K1 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Eine übliche Technik bei der Beseitigung unliebsamer Verteidiger besteht in
+einem mehrfachen Angriff auf sie, so dass der König nicht selbst
+zurückschlagen kann und sich weitere Fluchtfelder erwirkt.} 1. Qxd7+ Nxd7 2.
+Nf7# 1-0
+
+[Event "UdSSR"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "?"]
+[White "Zotow"]
+[Black "Glebow"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k6r/rb3R1p/NQ4p1/2p2n2/1p6/8/PPn3PP/6K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. Qc7 Rc8 2. Qb8+ {this technique was already examined with the smothered
+mate Diese Art der Technik, den König nicht zurückschlagen lassen, und sich zu
+vergewissern, dass eine eigene Figur ihm den Weg verstellt, haben wir ja
+bereits beim erstickten Matt (Lucena) registriert.} Rxb8 3. Nc7# 1-0
+
+[Event "Stockholm"]
+[Site "?"]
+[Date "1973.??.??"]
+[Round "?"]
+[White "Friedman"]
+[Black "Thornblorn"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r3r3/p1p2p1k/3p2pp/2p5/2P2n2/2N2B2/PPR1PP1q/3RQK2 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{The pawn's blockade is often used not to allow flight squares (here: e2-e3).
+Eine gleichfalls oft angewandte Technik der Fluchtfeldkontrolle ist die
+Blockade der Bauern, die dem König zu einem Schlupfloch verhelfen könnten:} 
+1... Re3 {Der e-Bauer wird blockiert.} 2. fxe3 Nh3 0-1
+
+[Event "USA-ch"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Fischer, R."]
+[Black "Benko, P."]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3qr1k/pp3pbp/2pn4/7Q/3pP3/2NB3P/PPP3P1/R4RK1 w - - 0 19"]
+[PlyCount "5"]
+[EventDate "1963.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+19. Rf6 $3 {Prevents the f-pawn's move and a general (also with the tactical
+motif) freeing of the king's position  Der verhinderte Zug des f-Bauern, und
+der damit unterbundenen generellen Befreiung der Königsstellung, schließt
+natürlich im Speziellen eine Wegnahme von Fluchtfeldern ein.} Kg8 20. e5 h6 21.
+Ne2 1-0
+
+[Event "New York"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Ivanovic, B."]
+[Black "San Segundo"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "R7/8/P3r2k/7P/3b1pK1/5B2/8/8 b - - 0 51"]
+[PlyCount "6"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+51... Rf6 52. Rd8 Be3 53. a7 Bxa7 54. Rd7 {The nicest way. The set up of a
+mating net was used to win material on a different part of the board. war
+vielleicht der hübscheste Weg die gewonnene Stellung zu verwerten. Mit Le4
+droht Matt auf h7 und der La7 hat keine Zeit sich mehr zu retten.  Hier wurde
+das Mattnetz (Aufstellen mit Tempo durch Td7) benutzt, um (Motiv Doppelangriff)
+an anderer Stelle Material zu gewinnen.} 1-0
+
+[Event "Barmen"]
+[Site "?"]
+[Date "1905.??.??"]
+[Round "?"]
+[White "Post"]
+[Black "Nimzowitsch"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2r5/8/8/8/pR1R4/k7/8/1K6 b - - 0 1"]
+[PlyCount "1"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{The STEX of the king showed no flight squares... STU des schwarzen Königs
+erbrachte keine Fluchtfelder...} 1... Rb8 1/2-1/2
+
+[Event "Ungarn"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Kaberel"]
+[Black "Tipary"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/5p2/4pk2/3pn3/5p2/5P1K/2r5/6Q1 w - - 0 1"]
+[PlyCount "2"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Sacrifice of the last piece closes simultaneously the last flight square on
+h4 Das Opfer der letzten Figur schließt das verbleibende Fluchtfeld h4} 1. Qg5+
+Kxg5 1/2-1/2
+
+[Event "Skopje (ol)"]
+[Site "?"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Zweig"]
+[Black "Westin"]
+[Result "1/2-1/2"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "1r2r3/5B1k/5Q2/7p/7P/8/7K/8 b - - 0 1"]
+[PlyCount "6"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Der schwarze König ist bewegungslos. Alle anderen Steine , die noch ziehen
+können, muss man loswerden...} 1... Re2+ 2. Kg3 Rb3+ 3. Bxb3 Rg2+ 4. Kxg2 {Patt
+} (4. Kf4 Rf2+ 5. Ke5 Rxf6 {und das Endspiel wäre auch Remis, da der schwarze
+König nicht aus der Ecke zu verdrängen ist.}) 1/2-1/2
+
+[Event "DDR"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Pietzsch"]
+[Black "Fuchs"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "6k1/3q4/4n3/2p1B2Q/p1PpK3/P2P4/1P6/8 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{STU des weißen Königs verweist auf das einzige Feld f5, dessen STU ergibt
+Springergabel auf g7. Der Läufer muss nun den Springer auf g7 schlagen. Dame
+oder König auf g6 ist dann Patt.} 1... Qc6+ 2. Kf5 Ng7+ 3. Bxg7 Qg6+ {Dieses
+letzte Beispiel (die schönen Endspielstudien diesbezüglich in der
+entsprechenden Literatur) zeigte uns noch, dass es durchaus realistisch ist,
+die Konstruktion einer Pattstellung aufmerksam bemühen zu wollen.  In unseren
+Partien stecken wohl mehr Patts, als wir zu finden versucht haben...} 1/2-1/2
+
+[Event "New York US-ch"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Evans, L."]
+[Black "Reshevsky, S."]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2Q5/5Rpk/8/1p2p2p/1P2Pn1P/5Pq1/4r3/7K w - - 0 49"]
+[PlyCount "3"]
+[EventDate "1963.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%csl Rg1,Rg2,Rh2]} 49. Qg8+ Kxg8 50. Rxg7+ {Wegen des Patts darf der König 
+(Dame) den Turm nicht schlagen, findet aber andererseits kein Feld, um den
+Schachs des Turmes zu entrinnen.} 1/2-1/2
+
+[Event "Moscow"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Portisch, L."]
+[Black "Kasparov, G."]
+[Result "1/2-1/2"]
+[WhiteElo "2650"]
+[BlackElo "2625"]
+[SetUp "1"]
+[FEN "8/5p1k/6p1/3P3n/3QPP2/7q/r2N3P/6RK b - - 0 41"]
+[PlyCount "17"]
+[EventDate "1981.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+41... Kg8 $3 {With this fantastic move Black escapes with a draw! durch diesen
+phantastischen Zug sichert sich Schwarz das Remis!!} 42. d6 Rxd2 $1 43. Qxd2
+Qf3+ 44. Qg2 Ng3+ $1 {opens the h-file öffnet die h-Linie} 45. hxg3 Qh5+ {
+with perpetual check. If the king (41...Kh7-Kg8!!) would have remained on the
+h-file the black queen would have been pinned. und jetzt hat Schwarz
+Dauerschach, da Weiß die drei Schachfelder h5, f3 und d1 nicht mit nur zwei
+Figuren stopfen kann! Jetzt sehen wir auch den Sinn des Zuges 41...Kg8: stände
+der schwarze König noch auf der h-Linie würde die Antwort Dh2 die schwarze
+Dame gegen ihren König gefesselt haben. Einmalig!!} 46. Qh2 Qf3+ 47. Rg2 Qd1+
+48. Qg1 Qh5+ 49. Rh2 Qf3+ {(Kommentare aus: 100 der schönsten Kombinationen
+der Schachgeschichte von M.Weteschnik)} 1/2-1/2
+
+[Event "Jugoslawien"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Stojanowski"]
+[Black "Guzel"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2Q5/p1p2k2/2pb1n2/5Pp1/3Pp2q/2P2pR1/PP3P1P/6RK b - - 0 1"]
+[PlyCount "3"]
+[EventDate "1995.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1... Qxh2+ 2. Kxh2 Ng4+ {und der Springer kontrolliert die drei (!)
+verbleibenden Königsfelder.} 1/2-1/2
+
+[Event "Amsterdam"]
+[Site "?"]
+[Date "1912.??.??"]
+[Round "?"]
+[White "Block"]
+[Black "Felderhof"]
+[Result "0-1"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "4Q3/3P2pk/5p2/8/4p1PK/3rP2P/4nP2/8 w - - 0 1"]
+[PlyCount "6"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. d8=Q $4 {Ein oft vorkommender Fehler: Weiß hielt seine Stellung für leicht
+gewonnen ... und wurde leichtsinnig.} (1. Qxe4+ Kh6 2. g5+ $1 (2. Qxd3 $4 g5#)
+2... fxg5+ 3. Kg4 $18) 1... g5+ $1 {STU hätte ergeben müssen, dass nach g5 der
+weiße Monarch keine Felder hat} 2. Kh5 Nf4+ $1 3. exf4 Rxh3# {Black just had
+to follow the checks Schwarz brauchte - in seiner Not - nur den direkten
+Schachgeboten zu folgen...} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "BeispielNebenfelder"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/5Pk1/4K3/7Q/8/8/8/6q1 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{King on f8 (would be mated on f7) Der König auf dem Feld f8 befände sich auf
+einem Feld, auf dem die Dame (f7) mattsetzt.} 1. f8=Q+ Kxf8 2. Qf7# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "BeispielNebenfelder1"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4r2k/1r3pp1/7p/8/8/6P1/5PKP/R1q1R3 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{before recapturing the queen material is gained on the king's neighbouring
+squares Bevor die Dame zurückgeschlagen wird, lässt sich auf den angrenzenden
+Feldern des Königs (seinem Nebenfeldersystem) mit Tempo Material gewinnen} 1.
+Rxe8+ Kh7 2. Rxc1 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "1965.??.??"]
+[Round "?"]
+[White "Vasjukow"]
+[Black "Taimanow"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/r2q2k1/2n3pp/1R1N4/p1ppr1P1/P1P3Q1/5P2/1R4K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%csl Gf3,Rf6,Rf7,Rf8] Dieses Beispiel sahen wir schon im Abschnitt
+Doppelangriff. Die rotmarkierten Felder sind die Königsnebenfelder, auf denen
+der König ein Taktischer Punkt (TP) des Doppelangriffes der Df3 (mit Te4 als
+zweiten TP) wäre.  Eines der vielen schon untersuchten Beispiele, die den
+König (Nebenfelder) in andere taktische Motive einbinden.} 1. Nf6 Kxf6 2. Qf3+
+{[%cal Rf3f6,Rf3e4] Das Betrachten der Königsnebenfelder als mögliche TP, war
+ja eine der wichtigsten Regeln, wenn es - in Bezug auf den König - um
+Grundzüge beim Doppelangriff ging!} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "BeispielNebenfelder2"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2Q5/3K4/6q1/1p6/2pkP3/P2p1P2/6p1/4B3 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%csl Rb4,Rb5,Rc4,Rc6,Rd5,Rd6] On c5 a diagonal check would be mate Die roten
+Felder markieren die dem König unzugänglichen Felder, würde er sich auf dem
+Feld c5 befinden. Wir sehen sofort, dass dort ein diagonales Schach Matt wäre.
+} 1. Qc5+ $1 Kxc5 2. Bf2# 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "BeispielNebenfelder3"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/3Rnprq/1pQ2rk1/8/5PP1/3p4/8/5K2 w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Resultat einer möglichen Positionierung des Königs auf f6 ist das Matt durch
+ein horizontales Schach.} 1. Qxf6+ Kxf6 2. Rd6# {Auch lässt sich hervorheben,
+dass eine vom König gedeckte Figur, die angegriffen ist, immer eine
+Opfermöglichkeit zur Hinlenkung darstellt.} 1-0
+
+[Event "Prag"]
+[Site "?"]
+[Date "1940.??.??"]
+[Round "?"]
+[White "Vanka"]
+[Black "Skoda"]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "r1b2r2/pp2npkp/3p1pp1/q2P4/3QPP2/8/PP2B1PP/R1B2R1K w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Hier wird bei der Kombination im Mittelspiel nur der allgemeine Ansatz der
+STU Nebenfelder etwas verfeinert.} 1. b4 $1 {[%csl Re6,Re7,Rf5,Rf7,Rg5,Rg6]
+[%cal Gg7f6] Schach auf der Diagonalen bei einem König auf f6...} (1. b4 Qa4 2.
+Qxf6+ Kxf6 3. Bb2#) 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Beispiel"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5r2/p2bbpnk/4p1pp/4B3/2rPQ3/3NP1PP/P3KP2/R7 b - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1... Bc6 2. Qg4 {[%csl Re4]} h5 3. Qf4 g5 {[%csl Re4] her original square is
+in the hands of the bishop (lesser value) und das Ursprungsfeld bleibt der
+Dame verwehrt, da sie ursprünglich einer niederwertigen Figur weichen musste.}
+0-1
+
+[Event "Novi Sad "]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Carnic"]
+[Black "Legki"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1r6/2k2b1p/p2n2p1/b4p2/5P2/P1p1r1P1/2P1NR1P/1NKR1B2 b - - 0 29"]
+[PlyCount "1"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{STEX of the knight => cannot move => attacked by one more piece => loss of
+the knight STU Springer muss ergeben => kann nicht ziehen => nochmals
+angegriffen = Verlust.} 29... Ba2 0-1
+
+[Event "Havana (m)"]
+[Site "?"]
+[Date "1889.??.??"]
+[Round "?"]
+[White "Steinitz"]
+[Black "Tschigorin"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r3rk1/pp3pp1/3b4/2pP1P1p/3pPn1q/5Q2/PP1B1P1P/1K1R1BR1 w - - 0 1"]
+[PlyCount "5"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{Nf4 has no retreat Der Sf4 hat keine Rückzugsfelder} 1. Qg3 Qg4 2. f3 Qxg3 3.
+hxg3 1-0
+
+[Event "Moskau"]
+[Site "?"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Rumin"]
+[Black "Capablanca"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/p4k2/2N1pp2/1p4p1/1P4P1/n7/5PP1/6K1 b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1... Ke8 2. Nxa7 Kd7 3. Kf1 Kc7 4. Ke2 Kb7 0-1
+
+[Event "Wageningen"]
+[Site "?"]
+[Date "1958.??.??"]
+[Round "?"]
+[White "Blau"]
+[Black "Donner"]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "r5k1/5p2/q2bbnp1/1p2p2p/1Pp1PP2/2P1B1P1/2B3PN/3RQ1K1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. Rxd6 $1 Qxd6 2. fxe5 (2. fxe5 Qxe5 3. Bf4 {and the queen has no retreat und
+die Dame hat keinen Rückzug}) 1-0
+
+[Event "ol"]
+[Site "?"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Castaldi"]
+[Black "Reshewski"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1p1nppbp/2n3p1/p7/QPPp4/B2P1NP1/P2N1PBP/R4RK1 b - - 0 1"]
+[PlyCount "3"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1... axb4 $1 2. Qxa8 Nb6 0-1
+
+[Event "Ungarn"]
+[Site "?"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Kallai"]
+[Black "Leko"]
+[Result "*"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "r3r1k1/1b1nqppp/2p2n2/4p3/NP2P3/2Q2NP1/5PBP/R3R1K1 b - - 0 17"]
+[PlyCount "3"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+17... Ba6 $1 {The bishop looks to occupy a more active square as he doesn't
+have to defend c6 Der eingesperrte Läufer sucht sich ein besseres Plätzchen,
+da seine Deckungspflicht (des Bauernc6) entfällt.} 18. Nd2 (18. Qxc6 $4 Rec8)
+18... Bb5 $11 *
+
+[Event "Jugoslawien"]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Karaklajic"]
+[Black "Bely"]
+[Result "*"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "q4rk1/1n1Qbppp/2p5/1p2p3/1P2P3/2P4P/3N1PP1/2B2RK1 b - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1... Qc8 $1 (1... Qc8 {Be7 does not have to be defended Der Le7 braucht nicht
+gedeckt zu werden.} 2. Qxe7 $2 f6 3. Bb2 Re8) *
+
+[Event "corr."]
+[Site "?"]
+[Date "1957.??.??"]
+[Round "?"]
+[White "Napolitano"]
+[Black "Batik"]
+[Result "*"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp2nppp/3p1n2/2pPp3/2P4N/2PBP3/P1Q2PPP/R1B2RK1 b - - 0 1"]
+[PlyCount "7"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1... e4 $1 2. Bxe4 (2. Be2 g5 $19 {the knight has no retrat Rückzug Springer})
+2... Nxe4 3. Qxe4 g5 {the last retreating square is the retreating square of
+the queen! Der Springer hat nur ein Feld zum Rückzug, doch dieses wird von der
+Dame gebraucht!} 4. Nf3 Bf5 {no retreat for the queen Nun hat die Dame keinen
+Rückzug mehr!} *
+
+[Event "Analyse von Reti"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Bogoljubow"]
+[Black "Aljechin"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2r1k/1pp3pp/2np1n2/p3pp1q/2PP4/PPQ1PNP1/3N1PBP/R4RK1 w - - 0 1"]
+[PlyCount "4"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. b4 e4 2. Ne1 {[%cal Ge1f1,Ge1a1] Der Rückzug des Springers nach e1 hat die
+Auswirkung der Linienunterbrechung zwischen den beiden Türmen. Nun ist der Ta1
+nur noch von der Dame gedeckt, die aber nicht den Ta1 und den Bauern auf b4
+gleichzeitig decken kann.} axb4 *
+
+[Event "Balatonalmadi"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Izsak, Gyu."]
+[Black "Weteschnik"]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "2rr2k1/1p3pp1/7p/p1bp4/4q3/PPQ1P3/1B3PPP/R2R2K1 b - - 0 25"]
+[PlyCount "2"]
+[EventDate "1996.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+25... f6 $6 (25... d4 $1 {considers the retreat of the queen plant den
+schlechten Rückzug der Dame mit ein} 26. Qxa5 Rd5 27. Qa4 Rg5 28. g3 b5 29. Qa6
+Ra8 $19 {and the queen is forced on a retreating square which involves
+tactical problems (analysis Iszak) und die Dame muss das einzige Rückzugsfeld
+nehmen, auf welchem sie unliebsame taktische Ereignisse erwartet. (Analyse
+Izsak)}) 26. Qxa5 $16 1-0
+
+[Event "UdSSR"]
+[Site "?"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Psakhis"]
+[Black "Agzamow"]
+[Result "0-1"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "6rk/6r1/1B6/2P1PP1p/3p4/3q1P1p/5R1N/1Q5K w - - 0 50"]
+[PlyCount "2"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%cal Re3g1] STEX rook: the rook opens a diagonal towards g1 when moving STU
+des Tf2 muss ergeben, dass er bei Wegzug die Diagonale e3-g1 freigibt!} 50. Rb2
+$4 (50. Qf1 $5) (50. Qc1 $5) 50... Qe3 {Nun ist der Angriff auf das Feld g1
+dreifach geworden. (Matt ist nicht mehr abzuwehren)} 0-1
+
+[Event "Kaschau"]
+[Site "?"]
+[Date "1919.??.??"]
+[Round "?"]
+[White "Schlechter"]
+[Black "Havasi"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r2r2k1/p1pbR1pp/2pp1n2/q5N1/2PN1P2/3Q3P/PP4P1/5RK1 w - - 0 1"]
+[PlyCount "3"]
+[EventDate "1996.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{direct elimination of a defender Die Mehrkontrolle von Feldern schließt
+natürlich die direkte Eliminierung eines Verteidigers mit ein:} 1. Nxh7 Nxh7 2.
+Qg6 {Einfache Beseitigung des Verteidigers eines wichtigen Feldes durch
+Abtausch  (Austausch des Bewegungshorizontes)} 1-0
+
+[Event "Moskau"]
+[Site "?"]
+[Date "1925.??.??"]
+[Round "?"]
+[White "Dus Chotimirski"]
+[Black "Capablanca"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6k1/2q2p2/7p/8/2P1P3/5r1P/6Q1/2r2NK1 b - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1... Rg3 {The knight cannot be counted to control g3 Der gegen den König
+gefesselte Springer entfällt bei der Kräftezählung des Feldes g3} 0-1
+
+[Event "Wch-Habana"]
+[Site "?"]
+[Date "1889.??.??"]
+[Round "11"]
+[White "Chigorin, M."]
+[Black "Steinitz, W."]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "r2nk2r/1bppnppp/pp6/2qPp3/Q1N1P3/2bBBN2/P4PPP/1R3RK1 b kq - 0 15"]
+[PlyCount "4"]
+[EventDate "1889.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+15... b5 (15... Bd4 16. Nxd4 exd4 17. Bxd4 {[%csl Ya4,Yc4,Yd4] occupation
+because of the discovered attack Der Läufer kann das Feld (schlagen) besetzen,
+da die Dame wegen des Abzugs mit Sd6+ nicht auf dem Feld d4 zurückschlagen
+kann.}) 16. Bxc5 bxa4 17. Rfc1 $18 1-0
+
+[Event "Cienfuegos"]
+[Site "?"]
+[Date "1976.??.??"]
+[Round "?"]
+[White "Bellon Lopez"]
+[Black "Garcia, S.."]
+[Result "0-1"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "6k1/7p/4p3/1p1n1Pp1/8/7K/Pr5P/3Q4 b - - 0 38"]
+[PlyCount "1"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+38... Rg2 $3 {g2 is part of the double attack Das Feld g2 ist der TP eines
+Doppelangriffes} (38... Rg2 39. Kxg2 (39. Qd4 Nf4+ 40. Qxf4 gxf4 41. Kxg2 e5)
+39... Ne3+ 40. Kf3 Nxd1 $19) 0-1
+
+[Event "UdSSR"]
+[Site "?"]
+[Date "1969.??.??"]
+[Round "?"]
+[White "Borisenko"]
+[Black "Nakhimowskaja"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4nqrk/r5pp/pn1p1p2/2pPpPPQ/2P4P/1P3P2/2BBK3/6RR w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. Qxh7+ Kxh7 2. g6+ Kh8 3. Rg5 {possible occupation because of the
+line-opening Feld, auf dem wegen Linienöffnung nicht geschlagen werden kann}
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Beispiel"]
+[Black "?"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "6rk/4q2p/2p1b3/2PpPp2/5P2/2B1Q3/7P/R6K b - - 0 1"]
+[PlyCount "1"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1... d4 {Das Feld d4 mit seinen Drohungen lässt sich besetzten.} 0-1
+
+[Event "unknown"]
+[Site "?"]
+[Date "1928.??.??"]
+[Round "?"]
+[White "Marshall, F."]
+[Black "Soldatenkoff, B."]
+[Result "0-1"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "3r1r1k/ppp3pB/2n2qQ1/8/5P1b/2P2N1b/PP1B3P/R5KR b - - 0 19"]
+[PlyCount "5"]
+[EventDate "1928.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+19... Rxd2 20. Nxd2 Nd4 {occupation because an important piece will follow 
+Feldbesetzung wegen nachfolgender wichtiger Figur auf d4  (Die Gesetzmäßigkeit
+dieses Vorganges: Ein Feld, das gegen eine strategisch wichtige Figur
+verteidigt wird, ist für jede Figur (des Angreifers) besetzbar!)} 21. Qh5 (21.
+cxd4 Qxd4#) 21... Qg5+ $1 0-1
+
+[Event "Match "URS-Yugoslavia", Yugoslavia"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Petrosian, Tigran V"]
+[Black "Ivkov, Borislav"]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "8/pr1r3p/6p1/2p1pk2/3b2N1/1P4P1/P2R1PKP/4R3 w - - 0 35"]
+[PlyCount "1"]
+[EventDate "1979.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{The perception of the main motif finds its support through the findings of
+the STEX. Hereby the recognition of real or impossible proceedings find the
+way into a methodical examination. The rook on e5 would force the king into a
+mating net. The positioning of the rook on e5 is an indirect attempt to solve
+the position and is at the same time an unreal activation of the rook because
+the Bd4 still covers that square. Das Hauptmotiv zu erkennen erfährt seine
+Unterstützung aus der Bestandsaufnahme der STU, mit ihren Ergebnissen die
+Teile und die Motive betreffend. Hierbei findet auch die Beachtung nicht
+realer bzw. unmöglicher Vorgänge Eingang in eine methodische
+Untersuchungsweise. Ein Turm auf e5 würde den König in ein Mattnetz treiben.
+Die Positionierung des Turmes auf e5 stellt sowohl einen indirekten
+Lösungsversuch der Stellung dar, sowie ein unrealer Einsatz der Figur, die
+wegen des Ld4 e5 eigentlich nicht besetzen dürfte.} 35. Rxd4 (35. Rxd4 exd4 36.
+Re5+ Kxg4 37. f3# {The real position has to be 'overlooked' and possible
+weaknesses recognised even if the realisation seems impossible. We will find
+our way through the complications and spot a possible winning motif - informed
+about the facts of the opponent's position and about our own potential of the
+pieces - when we start from the aim. Es gilt also über die reale Position
+hinwegzuschauen und mögliche Schwächen und ihre Ausnutzung (Positionierung der
+eigenen Figuren) zu erkennen, auch wenn die Realisierung scheinbar unmöglich
+wäre.  Nur wenn vom Ziel ausgegangen wird - man auch immer über (mögl.!)
+Schwächen im Lager des Gegners und über das Einsatzpotential der eigenen
+Figuren informiert ist - kann man durch das undurchdringbare Gewirr von
+gegnerischen Figuren und anderen taktischen und strategischen Hindernisssen
+ein taktisches Motiv erspähen.}) 1-0
+
+[Event "Deutschland"]
+[Site "?"]
+[Date "1954.??.??"]
+[Round "?"]
+[White "Erbis"]
+[Black "Kempf"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "1r2kr2/p2b1p1p/4pQ2/1pq3B1/2p5/4PB2/P4PPP/3R2K1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1995.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%cal Rf6e7,Rd7d8,Rd7d1,Rd1d2] The STEX of the square c6 shows it twice
+defended. The STEX of its defending pieces concludes their immobility.
+Combining these three results of the STEX will have us occupy c6. Die STU des
+Feldes c6 ergibt eine zweifache Verteidigung durch schwarze Figuren. Deren STU
+wiederum lässt eine Bewegungsunfähigkeit der bewachenden zwei Figuren folgern.
+Die Erkenntnisse der STU der drei Teile zusammen eröffnet das Resultat der
+Besetzbarkeit.} 1. Bc6 1-0
+
+[Event "Gera"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Neukirch"]
+[Black "Malich"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3r2k1/1R3ppp/4p1n1/3pP2N/5P2/2r5/q5PP/3Q1R1K w - - 0 7"]
+[PlyCount "9"]
+[EventDate "1997.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%csl Rc3,Gd4,Rg7][%cal Yd1d4] The undefended Rc3 as a TP and a further scope
+of the queen on d4 will make us perceive the second TP on g7... Der ungedeckte
+Turm als TP und die weitere Wirkung der Dame auf d4, von wo ein zweiter TP auf
+g7 nicht schwer zu finden ist...} 7. f5 exf5 8. e6 d4 {The SP on d4 is blocked.
+The STEX of the Rd8 in the starting position should have shown the defensive
+task (together with the knight) of defending the back-rank. The other defender
+(Nf6-Nf8) will be attacked twice (the pawn also deserves its STEX!!) and the
+win with Der geplante SP wird auf einmal blockiert. Alles umsonst? Die STU des
+Td8 im Anfangsdiagramm hätte die anteilige Aufgabe zur Verteidigung eines
+Grundlinienmatts ergeben müssen. Der andere Verteidiger ist mit e7 zweifach
+anzugreifen (auch ein fortschreitender Bauer verdient sich seine STU!!), und
+der Gewinn mit} 9. Qxd4 {is the result because of the combination of the
+particular STEX resultiert aus dem Zusammenspiel der Ergebnisse der STU.} Rxd4
+10. Rb8+ Nf8 11. e7 1-0
+
+[Event "Reykjavik"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "?"]
+[White "Thorbergsson"]
+[Black "Tal"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "2b3k1/4qp1p/p2p2p1/3P4/2Pp1Pn1/3BrNPn/PPQB2KP/4R3 b - - 0 27"]
+[PlyCount "25"]
+[EventDate "1964.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{STEX of the Re1 has as a result that only the Nf3 can recapture (Bd2 must
+defend e3). Infiltration by the Qh4 cannot be defended by this knight. Attacks
+from this square (targeting-STEX) against f2 and h2 are feasible. This square
+is only defended by the g3-pawn. Its additional task to defend f4 is thus
+questionable. h4 is a good square for the queen (STEX queen). To perceive this
+was probably the most difficult part of the combination. Targeting-STEX of the
+queen => e7-h4-f2 realised by g3 = only defender = f4 can be taken! This is
+exactly what Tal did: Gleichgültig ob das Schlagen (STU Te1) des Turmes auf e1
+im ersten oder zweiten Zug eventuell geplanter Varianten geschieht, die STU
+seiner Verteidiger hat ergeben, dass nur der Springer zurückschlagen kann,
+weil der Ld2 das Feld e3 (STU Sg4 => e3 = SP) decken muss. Da der Sf3 seine
+Aufgabe (mit der wir ihn jederzeit durch das Schlagen auf e1 beschäftigen
+können) auf e1 wahrnehmen muss, entfällt ein möglicher Verteidiger gegen das
+Eindringen der schwarzen Dame auf h4.  Hier ist ein Feld, welches bei der
+Zielfeld STU der De7 als Möglichkeit mit Angriff auf f2 und h2 gesehen werden
+sollte. Das Feld h4 ist allein von dem Bauern g3 verteidigt. Eine zweite
+Aufgabe (f4 decken) ist er nicht in der Lage zu erfüllen. Die STU einer Dame
+auf h4 erkennt nicht nur einen begünstigten Angriff auf f2 (Läufer konnte
+nicht auf e1 schlagen und versperrt weiterhin die Linie Dc2-f2) und h2 (der
+Springer deckt h2 nicht von e1), sie greift den Se1 an, den der Läufer mit
+Augenmerk auf e3 und dem erzwungenen Wegzug zum Schutz von f2, einen
+ungedeckten Status zuführt!  Wenn h4 ein lohnendes Feld für die Dame ist (das
+zu erkennen, war wohl die Schwierigkeit dieser Kombination => Zielfeld STU,
+die den Weg über h4 ((nur ein Verteidiger = g3)) nach f2 sucht), und g3 der
+einzige wirkliche Verteidiger ist, so können wir auf f4 schlagen!  Was Tal
+dann auch tat:} 27... Nxf4+ 28. gxf4 Rxe1 29. Nxe1 Qh4 30. Bc1 Qxe1 31. h3 Nh6
+32. f5 Nxf5 33. Bf4 Nh4+ 34. Kh2 Nf3+ 35. Kg2 Bxh3+ 36. Kxf3 Qg1 37. Bxg6 Qg4+
+38. Kf2 Qxf4+ 39. Kg1 hxg6 0-1
+
+[Event "Varna ol prel"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "5"]
+[White "Franco Raymundo, Eduardo"]
+[Black "Tal, Mikhail"]
+[Result "0-1"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "1rb1r1k1/1p3pbp/p2p1np1/P1pPn1B1/Nq2P3/RN3P2/1P1QB1PP/4K2R b K - 0 17"]
+[PlyCount "6"]
+[EventDate "1962.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+17... Nxd5 {To give an attacking genius sole credit for this move may be left
+undecided... Dass man diesen Zug dem Genius zuschreiben könnte, der durch
+Komplikationen im Angriff sein Heil sucht, mag dahingestellt bleiben...} 18.
+exd5 h6 {but this move (and may be the move before) is definitely based on the
+examination (STEX) which squares are left for the bishop's retreat. The STEX 
+(in connection with the twice opened lines) shows only f4 and e3 as the
+retreating squares. 1.) on f4 its loss is threatened because this square is
+the TP of Ne5-d3 (controlled by Black) 2.) on e3 the bishop is captured by the
+Re8 after Nxf3+ In these examinations other things (SP=d3) have to be included.
+The STEX of one queen shows a pin against her king and the loss of control
+over other squares (for example d3). The STEX of the other queen shows a tempo
+gain  against the Ra3 when she is captured. The rather poor position of Nb3 is
+another fact that has to be calculated with. A rook on e3 would pin this
+knight (Na4 will be lost after rook takes rook) and attack it twice (difficult
+to defend)  ...dieser zweite Zug (und damit vielleicht auch Sxd5) basiert aber
+eindeutig auf der Untersuchung (STU), welche Felder dem Läufer zum Rückzug
+verbleiben. Die STU (im Zusammenhang mit der zweifachen! Linienöffnung nach 18.
+exd5) des Lg5 zeigt nur die beiden Rückzugsfelder f4 und e3 auf.  1.) Auf f4
+droht der Verlust, weil dieses Feld der TP des Se5-d3 ist und damit von
+Schwarz kontrolliert wird. 2.) Auf e3 findet der Läufer keine Ruhe, da nach
+Sxf3+ der Läufer eine Beute des Te8 wird.  In vielen dieser Überlegungen ist
+die STU anderer Teile (z.B. SP auf d3) eine sich dem Ganzen anzufügende
+Bestandsaufnahme.  So ergibt STU für die eine Dame eine Fesselung gegen ihren
+König und damit Verlust der Kontrolle über andere Felder (z.B.e3). Die STU der
+schwarzen Dame hat zur Folge, dass sie nicht ohne Tempoverlust geschlagen
+werden kann (Ta3). Ein zusätzlicher Umstand, der eine sinnvollen
+Zusammensetzung der Einzelteile zu dem zu erstellenden Variantenbild ausmacht,
+ist der Besorgnis erregende Zustandsbericht des Sb3. Ein Turm auf e3 würde ihn
+nicht nur fesseln (Sa4 geht verloren), er ließe sich - dann zweifach
+angegriffen - auch schlecht verteidigen.} 19. Nbxc5 {had to quite be expected
+war eine durchaus zu erwartende Antwort. Mit Rückgabe der Figur kontrolliert
+der Ta3 den SP auf d3, und der Läufer hat wieder das Feld f4.} (19. Bf4 {
+[%csl Gd3,Re1,Rf4]} Nd3+ 20. Kf1 Nxf4 $19) (19. Be3 {[%csl Ye3,Ye5,Ye8]} Nxf3+
+20. gxf3 Rxe3 $19) 19... dxc5 20. Bf4 $15 0-1
+
+[Event "Schwäbisch Gemünd"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Aufgabe STU1"]
+[Black "Held,M.-Schäfer"]
+[Result "*"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "2r2r2/2q1pp2/p2p3k/3P3P/1p6/8/PPP3Q1/1K2R2R w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%tqu "En","What shows the STEX of the pawn on f7?","","","e1e6","Der Bauer
+hat eine wichtige Aufgabe. Er deckt g6 gegen ein Matt. Dieser <->Status/^
+verhindert ein gleichzeitiges Decken von e6.",8,"De","Was zeigt die STU des
+Bauern f7?","","","e1e6","Der Bauer hat eine wichtige Aufgabe. Er deckt g6
+gegen ein Matt. Dieser <->Status/^ verhindert ein gleichzeitiges Decken von e6.
+",8]} 1. Re6+ Kh7 2. Qe4+ (2. Qe4+ f5 3. Rxe7+ Rf7 4. Qxf5+) *
+
+[Event "Kecskemet"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Aufgabe STU2"]
+[Black "Held,M.-Reiss"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6rk/6rp/8/4Q3/p1P5/1P5R/q5PP/6RK w - - 0 1"]
+[PlyCount "3"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%tqu "En","What is the result of the STEX of Rg7 and Kh8?","","","h3h7","Der
+Tg7 darf überhaupt nicht ziehen! Der Kh8 ist auf seinem Nebenfeld h7 bei einem
+Damenschach Matt!",6,"De","Was ergibt die STU von Tg7 und Kh8?","","","h3h7",
+"Der Tg7 darf überhaupt nicht ziehen! Der Kh8 ist auf seinem Nebenfeld h7 bei
+einem Damenschach Matt!",6]} 1. Rxh7+ Kxh7 2. Qh5# 1-0
+
+[Event "2BL"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Aufgabe STU3"]
+[Black "Held-Kuraszkiewicz"]
+[Result "0-1"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "8/5R2/8/6p1/7p/4k2P/5p1K/3r4 w - - 0 1"]
+[PlyCount "2"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%tqu "En","What indicates the STEX of your pieces when in an inferior
+endgame your king has no squares and only one of your pieces can move?","","",
+"f7f3","Die STU weist auf ein mögliches Patt hin!",11,"f7f2","Die Idee ist
+schon richtig.",3,"De","Worauf weist in einem unterlegenen Endspiel die STU
+der eigenen Steine hin, wenn der König kaum Felder hat, und nur ein anderer
+Stein ziehen kann?","","","f7f3","Die STU weist auf ein mögliches Patt hin!",
+11,"f7f2","Die Idee ist schon richtig.",3]} 1. Rf3+ $1 (1. Rxf2 $4 Rd2 $1 {
+and White lost the game in spite of the correct idea und Weiß verlor die
+Partie trotz der richtigen Idee.}) 1... Kxf3 {stalemate Patt} (1... Ke4 2. Rxf2
+$11) 0-1
+
+[Event "Bad Vilbel"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "1"]
+[White "Aufgabe STU4"]
+[Black "Weteschnik-Voigt"]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "1rb2rk1/2p2pbp/3p1np1/p2P2B1/qpBNP1P1/5P2/PPPQ3P/1K1R3R w - - 0 1"]
+[PlyCount "7"]
+[EventDate "1995.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%tqu "En","What is the result of the STEX of Qa4?","","","d4c6","Wird der
+Dame die Diagonale nach e8 abgeschnitten hat sie keinen Rückzug mehr.",10,"De",
+"Was ergibt die STU der Da4?","","","d4c6","Wird der Dame die Diagonale nach
+e8 abgeschnitten hat sie keinen Rückzug mehr.",10]} 1. Nc6 Rb6 2. b3 Qa3 3. e5
+{closing of the line! Linienschließung!} (3. Qe1 $2 Nxe4 4. Bc1 Nc3+ $11) 3...
+dxe5 4. Qe1 {The queen is trapped. Die Dame ist gefangen.} 1-0
+
+[Event "Szekszard"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Pesztericz, L."]
+[Black "Videki, S."]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "4rrk1/pp1q2bn/3p2p1/2pP1p2/PnP4B/2NB1Q1P/1P4P1/R4RK1 b - - 0 20"]
+[PlyCount "3"]
+[EventDate "1994.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%tqu "En","What one can do with just the possibility to give a check...","",
+"","e8e3","Df3 und Ld3 die TPs eines Doppelangriffes mit SP auf e3. Das Feld
+e3 läßt sich hier besetzen, da es zum Einzugsbereich des Läuferschachs auf d4
+gehört. Automatisch gehört zu diesem Schach, dass sich alles, was sich
+zwischen Läufer und König stellt, gefesselt wird. Eine Schachmöglichkeit
+ergibt - wenn der Gegner dazwischenzieht - immer eine Fesselung.",8,"De","Was
+man mit einem Schach so alles anfangen kann..","","","e8e3","Df3 und Ld3 die
+TPs eines Doppelangriffes mit SP auf e3. Das Feld e3 läßt sich hier besetzen,
+da es zum Einzugsbereich des Läuferschachs auf d4 gehört. Automatisch gehört
+zu diesem Schach, dass sich alles, was sich zwischen Läufer und König stellt,
+gefesselt wird. Eine Schachmöglichkeit ergibt - wenn der Gegner
+dazwischenzieht - immer eine Fesselung.",8]} 20... Re3 21. Bxf5 {[%tqu ]} Rxf5
+{[%csl Re3,Rg1][%cal Yg7d4,Rd4g1] The bishop controls everything between d4
+and the king. The queen can not take the rook unless getting conquered by the
+pin. Der Läufer kontrolliert alles zwischen d4 und dem König. Die Dame darf
+also nicht schlagen, soll sie nicht durch die Fesselung verloren gehen.} 0-1
+
+[Event "Budapest HUN/K"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "10"]
+[White "Karolyi, T."]
+[Black "Orso, M."]
+[Result "*"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "r2rn1k1/1bqnbppp/pp1p4/4pPP1/P2NP3/2N2B2/1PP1Q2P/R1B2R1K w - - 0 16"]
+[PlyCount "5"]
+[EventDate "1979.??.??"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+{[%tqu ]} 16. Nd5 (16. Ne6 fxe6 17. fxe6 {Variations played against the
+computer are actually not suited for the serious annotator, but this one
+really shows the idea well. Gespielte Varianten gegen den Computer sollte man
+als seriösen Kommentar eigentlich nicht benutzen, aber Folgendes zeigt gut die
+eigentliche Idee.} Nf8 18. Nd5 Bxd5 19. exd5 b5 20. Be4 Rdb8 21. Rf7 bxa4 22.
+Ra3 Rb4 23. Rh3 g6 24. Bd3 Rd4 {such variations are not for us humans to
+understand... solche Varianten verstehen wir Menschen halt nicht...} 25. Be3
+Rb4 26. c3 Rb3 27. Bxg6 hxg6 28. Qf2 {And after my program showed quite a
+different opinion to 16.Se6, he signalled now resignation by indicating mate
+to follow. Und nachdem das Programm ob meines bisherigen Spielplans recht
+überrascht war, signalisierte es jetzt die Ausweglosigkeit mit einem sich nun
+anschließenden Matt.}) (16. f6 {Is also playable. Kann auch gespielt werden.})
+16... Bxd5 17. exd5 exd4 18. Qxe7 {If these complications (arousing after not
+withdrawing the knight with 16.Nb3) are objectively the best, may be left
+undecided. Important is: not to move the attacked pieces automatically
+backwards... Ob diese Komplikationen objektiv besser waren (als den Springer
+mit 16.Sb3 ganz einfach zurückzuziehen), mag dahingestellt bleiben. Wichtig
+ist nur: nicht gleich die Figuren wieder zurückziehen...} *
+
+[Event "?"]
+[Site "?"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Grigorew (Studie)"]
+[Black "study"]
+[Result "1-0"]
+[Annotator "Standard"]
+[SetUp "1"]
+[FEN "8/8/1p6/8/k7/3K4/5P2/8 w - - 0 1"]
+[PlyCount "17"]
+[SourceTitle "Lear Tactics"]
+[Source "ChessBase"]
+[SourceDate "2001.01.10"]
+
+1. Kd4 Kb5 (1... b5 2. f4 b4 3. f5 b3 4. Kc3 Ka3 {[%cal Rf8a3]} 5. f6 {and the
+decisive tempo gain after queening on f8 und der König wird mit
+verlustbringendem Schach 'erwischt'}) 2. Kd5 Ka6 3. f4 Kb7 4. f5 Kc7 5. Ke6 Kd8
+6. Kf7 b5 7. f6 b4 8. Kg8 b3 9. f7 {and queens with a check und durch die
+Bauernumwandlung mit Schach wird der schwarze Bauer sein Ziel nie erreichen.}
+1-0
+
